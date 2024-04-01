@@ -2,7 +2,7 @@
 Land Sector Data Analysis-Developing a FLINT Forest Monitoring tool using Land Sector datasets
 
 
-Past experience with this community:
+  # Past experience with this community:
 I was not aware about the project before the Outreachy application. However, during the contribution period, I actively tried to involve myself in the community and tried to hone my skills to help contribute to the project. I joined the Slack community (@communiCAtion) and interacted with the other contributors whenever I had any doubt. The Flint handbook gave me an overview of the project and its possible use case. This helped me gain perspective which was necessary to get started.
 I sharpened my database skills and started learning advanced concepts of MongoDB from the official blog posts on their channel.
 I learnt how to work with Json files and manipulate them while working on the tasks given during the contribution period.
@@ -12,7 +12,7 @@ I also learned how to ask for feedback and make a conclusive report to showcase 
 While working I realized there is lack of resources for the tool and if allowed the opportunity, I would try to make the documentation more coherent, provide documentation for dataset, create tutorial on how to download the tool and improve the file structure so that the difficulties I faced do not persist for future users.
 
 
-Past experience with other communities:
+  # Past experience with other communities:
 I have been using Talend Open Studio. The software enables users to build basic pipelines for ETL and data integration tasks. Unfortunately, due to poor adoption and lack of contribution the open-source product retired in January of 2024.This made me motivated to find more ways to contribute to open-source products which would benefit from my technical and non-technical skills so they can cater to users worldwide.
 
 I am actively using MySQL database to implement database related projects. The community support and extensive workflow maintained seamlessly online is astonishing and helped me understand how to work in the community ask questions to the maintainers.
@@ -40,7 +40,7 @@ Project repo: https://github.com/upes-open/OSoC-Swayam-Bazaar
 Contribution repo: https://github.com/shradiphylleia/OSoC-Swayam-Bazaar
 Worked on the frontend using html, css and frontend frameworks.
 
-Relevant Projects:
+  # Relevant Projects:
 Link: https://github.com/shradiphylleia/mojaglobal_outreachy-24
 The tasks given during the contribution period helped me gain understanding of working with large datasets and gave me the opportunity to learn GeoPandas. I went through the dataset and tried to understand the geographic terminologies in order to get a head start. I used pandas to get a hold of the data in more concise and coherent way using dataframe to visualize the data in tabular format. I also used pie-charts to understand how the data is spread out. For the week 2 task I had to learn how to hunt for external data that was relevant to the problem statement. I learnt how to create a report from the data which could serve as infographic to no-technical audience. 
 The geo-files had different CRS (Co-ordinate Reference system) which need to be transformed in order to visualize the intersection points.
@@ -59,7 +59,7 @@ I am learning relational database management by implementing a project on Online
 I have also worked on data analysis projects using Tableau. I believe experience with other data analysis tools can help me contribute to creating one which serves to the use case of FLINT.
 
 
-Outreachy internship project timeline:
+  # Outreachy internship project timeline:
 All operations and processes will be documented from the beginning to avoid communication errors.
 
 WEEK 1: Understanding problem statement and collecting the required resources.
